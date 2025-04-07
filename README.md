@@ -166,3 +166,14 @@ Aguarde alguns segundos e pegue o IP externo. Acesse no navegador:
 - [Repositório base da DIO](https://github.com/digitalinnovationone/Microsoft_Application_Platform)
 - [Documentação do AKS](https://learn.microsoft.com/pt-br/azure/aks/)
 
+
+# Meu Projeto na DIO
+
+## Introdução
+Este projeto foi desenvolvido como parte do desafio da DIO para construir um perfil de destaque. O objetivo é replicar ou melhorar o projeto prático apresentado durante o curso.
+
+## Passos para Reproduzir
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+   ```
